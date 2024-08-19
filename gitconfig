@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = 452nad@gmail.com
+	name = Nadeem Akhtar
